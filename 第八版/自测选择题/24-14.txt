@@ -1,0 +1,68 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+It is not possible to test object-oriented software without including error discovery techniques applied to the system OOA and OOD models.
+		A)	True
+		B)	False
+2		
+The correctness of the OOA and OOD model is accomplished using formal technical reviews by the software quality assurance team.
+		A)	True
+		B)	False
+3		
+The consistency of object-oriented models may be judged by reviewing the CRC card model.
+		A)	True
+		B)	False
+4		
+Test case design for OO software is driven by the algorithmic detail of the individual operations.
+		A)	True
+		B)	False
+5		
+Integration testing of object-oriented software can be accomplished by which of the following testing strategies?
+		A)	Cluster testing
+		B)	Glass-box testing
+		C)	Thread-based testing
+		D)	Use-based testing
+		E)	a, c, d
+6		
+Validation of object-oriented software focuses on user visible actions and outputs from the system.
+		A)	True
+		B)	False
+7		
+Encapsulation of attributes and operations inside objects makes it easy to obtain object state information during testing.
+		A)	True
+		B)	False
+8		
+Use-cases can provide useful input into the design of black-box and state-based tests of OO software.
+		A)	True
+		B)	False
+9		
+Fault-based testing is best reserved for
+		A)	conventional software testing
+		B)	operations and classes that are critical or suspect
+		C)	use-case validation
+		D)	white-box testing of operator algorithms
+10		
+Scenario-based testing
+		A)	concentrates on actor and software interaction
+		B)	misses errors in specifications
+		C)	misses errors in subsystem interactions
+		D)	both a and b
+11		
+Random order tests are conducted to exercise different class instance life histories.
+		A)	True
+		B)	False
+12		
+Which of these techniques is not useful for partition testing at the class level
+		A)	attribute-based partitioning
+		B)	category-based partitioning
+		C)	equivalence class partitioning
+		D)	state-based partitioning
+13		
+Multiple class testing is too complex to be tested using random test cases.
+		A)	True
+		B)	False
+14		
+The state model can be used to derive test cases based on the dynamic behavior of an object-oriented system.
+		A)	True
+		B)	False

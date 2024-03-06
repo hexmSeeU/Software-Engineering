@@ -1,0 +1,108 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+In the most general sense a component is a modular building block for computer software.
+		A)	True
+		B)	False
+2		
+In the context of object-oriented software engineering a component contains
+		A)	attributes and operations
+		B)	instances of each class
+		C)	roles for each actor (device or user)
+		D)	set of collaborating classes
+3		
+In traditional software engineering modules must serve in which of the following roles?
+		A)	Control component
+		B)	Infrastructure component
+		C)	Problem domain component
+		D)	All of the above
+4		
+Software engineers always need to cerate components from scratch in order to meet customer expectations fully.
+		A)	True
+		B)	False
+5		
+Which of the following is not one of the four principles used to guide component-level design?
+		A)	Dependency Inversion Principle
+		B)	Interface Segregation Principle
+		C)	Open-Closed Principle
+		D)	Parsimonious Complexity Principle
+6		
+The use of stereotypes can help identify the nature of components at the detailed design level.
+		A)	True
+		B)	False
+7		
+Classes and components that exhibit functional, layer, or communicational cohesion are relatively easy to implement, test, and maintain.
+		A)	True
+		B)	False
+8		
+Software coupling is a sign of poor architectural design and can always be avoided in every system.
+		A)	True
+		B)	False
+9		
+In component design elaboration requires which of the following elements to be describe in detail?
+		A)	Algorithms
+		B)	Attributes
+		C)	Interfaces
+		D)	Operations
+		E)	b, c, d
+10		
+In component-level design persistent data sources refer to
+		A)	Component libraries
+		B)	Databases
+		C)	Files
+		D)	All of the above
+		E)	b and c
+11		
+WebApp content design at the component level focuses on content objects and the manner in which they interact.
+		A)	True
+		B)	False
+12		
+A WebApp functional architecture describes the key functional components and how they interact with each other.
+		A)	True
+		B)	False
+13		
+Component-level design for mobile apps is not any different from component-based design for Web apps.
+		A)	True
+		B)	False
+14		
+Which of these constructs is used in structured programming?
+		A)	branching
+		B)	condition
+		C)	repetition
+		D)	sequence
+		E)	b, c, d
+15		
+In component-based software engineering, the development team examines the requirements to see which are amenable to composition, rather than construction, before beginning detailed design tasks.
+		A)	True
+		B)	False
+16		
+Which of the following is not one of the major activities of domain engineering?
+		A)	analysis
+		B)	construction
+		C)	dissemination
+		D)	validation
+17		
+Which of the following factors would not be considered during component qualification?
+		A)	application programming interface (API)
+		B)	development and integration tools required
+		C)	exception handling
+		D)	testing equipment required
+18		
+Which is the following is a technique used for component wrapping?
+		A)	black-box wrapping
+		B)	clear-box wrapping
+		C)	gray-box wrapping
+		D)	white-box wrapping
+19		
+Which of the following is not one of the issues that form a basis for design for reuse?
+		A)	object-oriented programming
+		B)	program templates
+		C)	standard data
+		D)	standard interface protocols
+20		
+In a reuse environment, library queries are often characterized using the ________ element of the 3C Model.
+		A)	concept
+		B)	content
+		C)	context
+		D)	all of the above

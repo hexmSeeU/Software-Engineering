@@ -1,0 +1,128 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+Since project estimates are not completely reliable, they can be ignored once a software development project begins.
+		A)	True
+		B)	False
+2		
+The objective of software project planing is to
+		A)	convince the customer that a project is feasible.
+		B)	make use of historical project data.
+		C)	enable a manager to make reasonable estimates of cost and schedule.
+		D)	determine the probable profit margin prior to bidding on a project.
+3		
+The project scope is defined as a means of bounding the system
+		A)	functionality
+		B)	performance
+		C)	costs
+		D)	schedule
+		E)	a and b
+4		
+Software feasibility is based on which of the following
+		A)	business and marketing concerns
+		B)	scope, constraints, market
+		C)	technology, finance, time, resources
+		D)	technical prowess of the developers
+5		
+The number of people required for a software project is determined
+		A)	after an estimate of the development effort is made.
+		B)	by the size of the project budget.
+		C)	from an assessment of the technical complexity of the system.
+		D)	all of the above
+6		
+Reusable software components must be
+		A)	catalogued for easy reference.
+		B)	standardized for easy application.
+		C)	validated for easy integration.
+		D)	all of the above
+7		
+The software engineering environment (SEE) consists of which of the following?
+		A)	customers
+		B)	developers
+		C)	hardware platforms
+		D)	software tools
+		E)	c and d
+8		
+Software project estimation techniques can be broadly classified under which of the following headings?
+		A)	automated processes
+		B)	decomposition techniques
+		C)	empirical models
+		D)	regression models
+		E)	b and c
+9		
+The size estimate for a software product to be built must be based on a direct measure like LOC.
+		A)	True
+		B)	False
+10		
+Problem-based estimation is based on problem decomposition which focuses on
+		A)	information domain values
+		B)	project schedule
+		C)	software functions
+		D)	process activities
+		E)	a and c
+11		
+LOC-based estimation techniques require problem decomposition based on
+		A)	information domain values
+		B)	project schedule
+		C)	software functions
+		D)	process activities
+12		
+FP-based estimation techniques require problem decomposition based on
+		A)	information domain values
+		B)	project schedule
+		C)	software functions
+		D)	process activities
+13		
+Process-based estimation techniques require problem decomposition based on
+		A)	information domain values
+		B)	project schedule
+		C)	software functions
+		D)	process activities
+		E)	c and d
+14		
+Unlike a LOC or function point each person¡¯s ¡°use-case¡± is exactly the same size.
+		A)	True
+		B)	False
+15		
+When agreement between estimates is poor the cause may often be traced to inadequately defined project scope or inappropriate productivity data.
+		A)	True
+		B)	False
+16		
+Empirical estimation models are typically based on
+		A)	expert judgement based on past project experiences
+		B)	refinement of expected value estimation
+		C)	regression models derived from historical project data
+		D)	trial and error determination of the parameters and coefficients
+17		
+COCOMO II is an example of a suite of modern empirical estimation models that require sizing information expressed as:
+		A)	function points
+		B)	lines of code
+		C)	object points
+		D)	any of the above
+18		
+Putnam's software equation is a dynamic empirical model that has two independent parameters: a size estimate and an indication of project duration in calendar months or years.
+		A)	True
+		B)	False
+19		
+Function points are of no user in developing estimates for object-oriented software.
+		A)	True
+		B)	False
+20		
+In agile software development estimation techniques focus on the time required to complete each
+		A)	increment
+		B)	scenario
+		C)	task
+		D)	use-case
+21		
+It is possible to use a modified function point technique to develop estimates for Web applications.
+		A)	True
+		B)	False
+22		
+Using a statistical technique like decision tree analysis can provide some assistance in sorting out the true costs associated with the make-buy decision.
+		A)	True
+		B)	False
+23		
+Outsourcing always provides a simple means of acquiring software at lower cost than onsite development of the same product.
+		A)	True
+		B)	False

@@ -1,0 +1,99 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+The cleanroom strategy is based on the ________ software process model.
+		A)	evolutionary
+		B)	incremental
+		C)	revolutionary
+		D)	spiral
+2		
+The cleanroom strategy relies on
+		A)	exhaustive testing
+		B)	extensive unit testing of all modules
+		C)	tests that exercise the software as it is really used
+		D)	white box testing strategies
+3		
+Use of formal program correctness proofs as part of the cleanroom process eliminates the need do any testing for software defects.
+		A)	True
+		B)	False
+4		
+In cleanroom software engineering a ¡°box¡± encapsulates some system aspect at a particular level of detail.
+		A)	True
+		B)	False
+5		
+This box specification describes an abstraction, stimuli, and response.
+		A)	black box
+		B)	clear box
+		C)	state box
+		D)	white box
+6		
+This box specification describes the architectural design for some system component.
+		A)	black box
+		B)	clear box
+		C)	state box
+		D)	white box
+7		
+This box specification is closely aligned with procedural design and structured programming.
+		A)	black box
+		B)	clear box
+		C)	state box
+		D)	white box
+8		
+In cleanroom software engineering the structured programming approach is used to
+		A)	refine data design
+		B)	refine function design
+		C)	refine usage test cases
+		D)	both a and b
+9		
+By using only structured programming constructs as you create a procedural design, you make the work of proving design correctness much easier.
+		A)	True
+		B)	False
+10		
+Which of the following is not an advantage of using rigorous correctness verification of each refinement of the clear box design?
+		A)	improves performance of code
+		B)	produces better code than unit testing
+		C)	reduces verification effort
+		D)	results in near zero defect levels
+11		
+Statistical use testing relies on probability distributions based on
+		A)	mixture of control structures used in the program
+		B)	order in which the module execute
+		C)	the way software will actually be used
+		D)	user interface design standards
+12		
+Certification of an increment is complete once it has passed the formal verification process.
+		A)	True
+		B)	False
+13		
+Which of the following models is part of the cleanroom certification process?
+		A)	component model
+		B)	sampling model
+		C)	both a and b
+		D)	none of the above
+14		
+A data invariant is a set of conditions that are true during the execution of any function.
+		A)	True
+		B)	False
+15		
+In some formal languages, stored data that the system accesses and alters is called a(n)
+		A)	attribute
+		B)	data structure
+		C)	state
+		D)	variant
+16		
+In formal methods work, an action that reads or writes data to a state is called a(n)
+		A)	actor
+		B)	event
+		C)	invariant
+		D)	operation
+17		
+What defines the circumstances in which a particular operation is valid?
+		A)	data invariant
+		B)	precondition
+		C)	postcondition
+		D)	state
+18		
+Using formal methods eliminates the need to write natural language commentary in the specification document.
+		A)	True
+		B)	False

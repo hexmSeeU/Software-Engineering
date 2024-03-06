@@ -1,0 +1,35 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+Which question no longer concerns the modern software engineer?
+		A)	Why does computer hardware cost so much?
+		B)	Why does software take a long time to finish?
+		C)	Why does it cost so much to develop a piece of software?
+		D)	Why can¡¯t software errors be removed from products prior to delivery?
+2		
+Software is a product and can be manufactured using the same technologies used for other engineering artifacts
+		A)	True
+		B)	False
+3		
+Software deteriorates rather than wears out because
+		A)	Software suffers from exposure to hostile environments
+		B)	Defects are more likely to arise after software has been used often
+		C)	Multiple change requests introduce errors in component interactions
+		D)	Software spare parts become harder to order
+4		
+WebApps are a mixture of print publishing and software development, making their development outside the realm of software engineering practice.
+		A)	True
+		B)	False
+5		
+There are no real differences between creating WebApps and MobileApps.
+		A)	True
+		B)	False
+6		
+In its simplest form an external computing device may access cloud data services using a web browser.
+		A)	True
+		B)	False
+7		
+Product line software development depends the reuse of existing software components to provide software engineering leverage.
+		A)	True
+		B)	False

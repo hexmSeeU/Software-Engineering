@@ -1,0 +1,130 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+In software quality assurance work there is no difference between software verification and software validation.
+		A)	True
+		B)	False
+2		
+The best reason for using Independent software test teams is that
+		A)	software developers do not need to do any testing
+		B)	strangers will test the software mercilessly
+		C)	testers do not get involved with the project until testing begins
+		D)	the conflicts of interest between developers and testers is reduced
+3		
+What is the normal order of activities in which traditional software testing is organized?
+		A)	integration testing, system testing, unit testing, validation testing.
+		B)	unit testing, validation testing, system testing, integration testing
+		C)	unit testing, integration testing, validation testing, system testing
+		D)	validation testing, system testing, integration testing, unit testing
+4		
+By collecting software metrics and making use of existing software reliability models it is possible to develop meaningful guidelines for determining when software testing is done.
+		A)	True
+		B)	False
+5		
+Which of the following strategic issues needs to be addressed in a successful software testing process?
+		A)	conduct formal technical reviews prior to testing
+		B)	specify requirements in a quantifiable manner
+		C)	use independent test teams
+		D)	wait till code is written prior to writing the test plan
+		E)	a and b
+6		
+Which of the following need to be assessed during unit testing?
+		A)	algorithmic performance
+		B)	code stability
+		C)	error handling
+		D)	execution paths
+		E)	c and d
+7		
+Units and stubs are not needed for unit testing because the modules are tested independently of one another.
+		A)	True
+		B)	False
+8		
+Top-down integration testing has as it's major advantage(s) that
+		A)	low level modules never need testing
+		B)	major decision points are tested early
+		C)	no drivers need to be written
+		D)	no stubs need to be written
+		E)	b and c
+9		
+Bottom-up integration testing has as it's major advantage(s) that
+		A)	major decision points are tested early
+		B)	no drivers need to be written
+		C)	no stubs need to be written
+		D)	regression testing is not required
+10		
+Regression testing should be a normal part of integration testing because as a new module is added to the system new
+		A)	control logic is invoked
+		B)	data flow paths are established
+		C)	drivers require testing
+		D)	all of the above
+		E)	a and b
+11		
+Smoke testing might best be described as
+		A)	bulletproofing shrink-wrapped software
+		B)	rolling integration testing
+		C)	testing that hides implementation errors
+		D)	unit testing for small programs
+12		
+When testing object-oriented software it is important to test each class operation separately as part of the unit testing process.
+		A)	True
+		B)	False
+13		
+The OO testing integration strategy involves testing
+		A)	groups of classes that collaborate or communicate in some way
+		B)	single operations as they are added to the evolving class implementation
+		C)	operator programs derived from use-case scenarios
+		D)	none of the above
+14		
+Since many WebApps evolve continuously, the testing process must be ongoing as well.
+		A)	True
+		B)	False
+15		
+Testing MobileApps is not different than testing WebApps.
+		A)	True
+		B)	False
+16		
+The focus of validation testing is to uncover places that s user will be able to observe failure of the software to conform to its requirements.
+		A)	True
+		B)	False
+17		
+Software validation is achieved through a series of tests performed by the user once the software is deployed in his or her work environment.
+		A)	True
+		B)	False
+18		
+Configuration reviews are not needed if regression testing has been rigorously applied during software integration.
+		A)	True
+		B)	False
+19		
+Acceptance tests are normally conducted by the
+		A)	developer
+		B)	end users
+		C)	test team
+		D)	systems engineers
+20		
+Recovery testing is a system test that forces the software to fail in a variety of ways and verifies that software is able to continue execution without interruption.
+		A)	True
+		B)	False
+21		
+Security testing attempts to verify that protection mechanisms built into a system protect it from improper penetration.
+		A)	True
+		B)	False
+22		
+Stress testing examines the pressures placed on the user during system use in extreme environments.
+		A)	True
+		B)	False
+23		
+Performance testing is only important for real-time or embedded systems.
+		A)	True
+		B)	False
+24		
+Debugging is not testing, but always occurs as a consequence of testing.
+		A)	True
+		B)	False
+25		
+Which of the following is an approach to debugging?
+		A)	backtracking
+		B)	brute force
+		C)	cause elimination
+		D)	code restructuring
+		E)	a, b, c

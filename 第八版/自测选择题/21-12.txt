@@ -1,0 +1,66 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+Software quality might be defined as conformance to explicitly stated requirements and standards, nothing more and nothing less.
+		A)	True
+		B)	False
+2		
+People who perform software quality assurance must look at the software from the customer's perspective.
+		A)	True
+		B)	False
+3		
+The elements of software quality assurance consist of reviews, audits, and testing.
+		A)	True
+		B)	False
+4		
+Which of these activities is not one of the activities recommended to be performed by an independent SQA group?
+		A)	prepare SQA plan for the project
+		B)	review software engineering activities to verify process compliance
+		C)	report any evidence of noncompliance to senior management
+		D)	serve as the sole test team for any software produced
+5		
+Metrics can be used to indicate the relative strength of a software quality attribute.
+		A)	True
+		B)	False
+6		
+Attempts to apply mathematical proof to demonstrate that a program conforms to its specifications are doomed to failure.
+		A)	True
+		B)	False
+7		
+Statistical quality assurance involves
+		A)	using sampling in place of exhaustive testing of software
+		B)	surveying customers to find out their opinions about product quality
+		C)	tracing each defect to its underlying cause, isolating the "vital few" causes, and moving to correct them
+		D)	tracing each defect to its underlying causes and using the Pareto principle to correct each problem found
+8		
+Six Sigma methodology defines three core steps.
+		A)	analyze, improve, control
+		B)	analyze, design, verify
+		C)	define, measure, analyze
+		D)	define, measure, control
+9		
+Software reliability problems can almost always be traced to
+		A)	errors in accuracy
+		B)	errors in design
+		C)	errors in implementation
+		D)	errors in operation
+		E)	b and c
+10		
+Software safety is a quality assurance activity that focuses on hazards that
+		A)	affect the reliability of a software component
+		B)	may cause an entire system to fail
+		C)	may result from user input errors
+		D)	prevent profitable marketing of the final product
+11		
+The ISO quality assurance standard that applies to software engineering is
+		A)	ISO 9000
+		B)	ISO 9001
+		C)	ISO 9002
+		D)	ISO 9003
+12		
+Which of the following is not a section in the standard for SQA plans recommended by IEEE?
+		A)	budget
+		B)	documentation
+		C)	reviews and audits
+		D)	test

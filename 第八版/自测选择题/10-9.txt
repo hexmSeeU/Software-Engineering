@@ -1,0 +1,47 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+Which of the following should be considered as candidate objects in a problem space?
+		A)	events
+		B)	people
+		C)	structures
+		D)	all of the above
+2		
+In the grammatical parse of a processing narrative the nouns become object candidates in the analysis model.
+		A)	True
+		B)	False
+3		
+Attributes are chosen for an object by examining the problem statement and identifying the entities that appear to be related.
+		A)	True
+		B)	False
+4		
+Which of the following is not one of the broad categories used to classify operations?
+		A)	computation
+		B)	data manipulation
+		C)	event monitors
+		D)	transformers
+5		
+Collaborators in CRC modeling are those classes needed to fulfill a responsibility on another card.
+		A)	True
+		B)	False
+6		
+Which of the following items does not appear on a CRC card?
+		A)	class collaborators
+		B)	class name
+		C)	class reliability
+		D)	class responsibilities
+7		
+Class responsibilities are defined by
+		A)	its attributes only
+		B)	its collaborators
+		C)	its operations only
+		D)	both its attributes and operations
+8		
+A stereotype is the basis for class reuse in UML modeling.
+		A)	True
+		B)	False
+9		
+An analysis package involves the categorization of analysis model elements into useful groupings.
+		A)	True
+		B)	False
