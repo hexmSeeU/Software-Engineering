@@ -1,0 +1,71 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+MobileApps require special testing methodologies because of concerns associated using them in diverse network environments.
+		A)	True
+		B)	False
+2		
+Since MobileApp users are attracted to new technologies they are very tolerant of errors and testing effort can be reduced.
+		A)	True
+		B)	False
+3		
+Designing test cases directly from user stories increase the likelihood of developing effective test cases in a timely manner.
+		A)	True
+		B)	False
+4		
+Automated testing tools eliminate the need to do regression testing for MobileApps.
+		A)	True
+		B)	False
+5		
+A weighted device platform matrix helps to prioritize test cases.
+		A)	True
+		B)	False
+6		
+Part of the reason for stress testing is to ensure that the MobileApp exhibits graceful degradation on failure.
+		A)	True
+		B)	False
+7		
+Which of the following are reasons for testing in the wild?
+		A)	Assessing the impact of production environments
+		B)	Failing to create test cases
+		C)	Not understanding user demographics
+		D)	Testing for variable performance on user devices
+		E)	both a and d
+8		
+When testing the quality of user interaction the focus should be on user visible interaction mechanisms.
+		A)	True
+		B)	False
+9		
+Which of that following add to the difficulty of testing MobileApp gestures?
+		A)	Automatic tool use is difficult
+		B)	Creating functions to simulate events
+		C)	Screen size variation
+		D)	Using paper prototypes
+		E)	a, b, c
+10		
+Continuous speech recognition techniques have eliminated the need for key entry in MobileApps.
+		A)	True
+		B)	False
+11		
+Predictive technologies are often used to help speed up virtual keyboard inpu on mobile devices.
+		A)	True
+		B)	False
+12		
+The ability of a MobileApp to handle alerts without disrupting user workflow must be tested in the production environment?
+		A)	True
+		B)	False
+13		
+The Testing across borders is not necessary each MobileApp is developed for use in a specific country.
+		A)	True
+		B)	False
+14		
+Which of the following are issues that make real-time testing difficult?
+		A)	Limited device processing capacity
+		B)	Power limitations on the device
+		C)	Unique mobile network infrastructures
+		D)	All of the above
+15		
+Device emulators eliminate the need to test MobileApps on actual devices.
+		A)	True
+		B)	False

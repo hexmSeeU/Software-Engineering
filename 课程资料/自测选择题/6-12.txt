@@ -1,0 +1,59 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+Human aspects of software engineering are not relevant in today¡¯s agile process models.
+		A)	True
+		B)	False
+2		
+Which of the following is not an important trait of an effective software engineer?
+		A)	Attentive to detail
+		B)	Brutally honest
+		C)	Follows process rule dogmatically
+		D)	Resilient under pressure
+3		
+Group communication and collaboration are as important as the technical skills of an individual team member to the success of a team.
+		A)	True
+		B)	False
+4		
+Teams with diversity in the individual team member skill sets tend to be more effective than teams without this diversity.
+		A)	True
+		B)	False
+5		
+Which of the following can contribute to team toxicity?
+		A)	Frenzied work atmosphere
+		B)	Inadequate budget
+		C)	Poorly coordinated software process
+		D)	Unclear definition of team roles
+		E)	a, b, d
+6		
+Software engineering team structure is independent of problem complexity and size of the expected software products.
+		A)	True
+		B)	False
+7		
+Agile teams are allowed to self-organize and make their own technical decisions.
+		A)	True
+		B)	False
+8		
+In XP a metaphor is used as a device to facilitate communications among customers, team members, and managers?
+		A)	True
+		B)	False
+9		
+Using an established social media platform negates the need to be concerned about privacy or security.
+		A)	True
+		B)	False
+10		
+Use of cloud services can speed up information sharing among software team members?
+		A)	True
+		B)	False
+11		
+In collaborative development environments, metrics are used to reward and punish team members.
+		A)	True
+		B)	False
+12		
+Which of these factors complicate decision-making by global software teams
+		A)	Complexity of problem
+		B)	Different views of the problem
+		C)	Law of unintended consequences
+		D)	Risk associated with decision
+		E)	All of the above.

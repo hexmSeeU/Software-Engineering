@@ -1,0 +1,29 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+Which of the following are recognized process flow types?
+		A)	Concurrent process flow
+		B)	Iterative process flow
+		C)	Linear process flow
+		D)	Spiral process flow
+		E)	both a and c
+2		
+The communication activity is best handled for small projects using six distinct actions (inception, elicitation, elaboration, negotiation, specification, validation).
+		A)	True
+		B)	False
+3		
+A good software development team always uses the same task set for every project to insure high quality work products
+		A)	True
+		B)	False
+4		
+Software processes can be constructed out of pre-existing software patterns to best meet the needs of a software project.
+		A)	True
+		B)	False
+5		
+Which of these are standards for assessing software processes?
+		A)	SEI
+		B)	SPICE
+		C)	ISO 9000
+		D)	ISO 9001
+		E)	both b and d

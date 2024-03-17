@@ -1,0 +1,52 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+MobileApps must be designed take intermittent connectivity outages.
+		A)	True
+		B)	False
+2		
+Modern electronics allow developers to ignore the power demands made by a MobileApp.
+		A)	True
+		B)	False
+3		
+A MobileApp is assessed for usability and accessibility before beginning the next increment begins.
+		A)	True
+		B)	False
+4		
+Which of the following characteristics should not be used to assess the quality of a MobileApp?
+		A)	aesthetics
+		B)	reliability
+		C)	maintainability
+		D)	usability
+5		
+Quality function deployment is not necessary when implementing MobileApp user stories?
+		A)	True
+		B)	False
+6		
+Using highly adaptive contextual interfaces is a good way to deal with device limitations like screen size.
+		A)	True
+		B)	False
+7		
+Which of the following are common MobileApp design mistakes.
+		A)	Inconsistency
+		B)	Interoperability
+		C)	Lean design
+		D)	Overdesigning
+		E)	a and d
+8		
+It is better to multiple short pages than long scrolling forms when implementing mobile device user interfaces.
+		A)	True
+		B)	False
+9		
+Java is the best programming language to use when you want to create portable MobileApps.
+		A)	True
+		B)	False
+10		
+Service computing allows you to avoid the need to integrate service source code into the mobile device client.
+		A)	True
+		B)	False
+11		
+The most important MobileApp architecture decision whether to build a thin or fat mobile client.
+		A)	True
+		B)	False

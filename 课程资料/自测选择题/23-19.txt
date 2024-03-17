@@ -1,0 +1,103 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+With thorough testing it is possible to remove all defects from a program prior to delivery to the customer.
+		A)	True
+		B)	False
+2		
+Which of the following are characteristics of testable software?
+		A)	observability
+		B)	simplicity
+		C)	stability
+		D)	all of the above
+3		
+The testing technique that requires devising test cases to demonstrate that each program function is operational is called
+		A)	black-box testing
+		B)	glass-box testing
+		C)	grey-box testing
+		D)	white-box testing
+4		
+The testing technique that requires devising test cases to exercise the internal logic of a software module is called
+		A)	behavioral testing
+		B)	black-box testing
+		C)	grey-box testing
+		D)	white-box testing
+5		
+What types of errors are missed by black-box testing and can be uncovered by white-box testing?
+		A)	behavioral errors
+		B)	logic errors
+		C)	performance errors
+		D)	typographical errors
+		E)	b and d
+6		
+Program flow graphs are identical to program flowcharts.
+		A)	True
+		B)	False
+7		
+The cyclomatic complexity metric provides the designer with information regarding the number of
+		A)	cycles in the program
+		B)	errors in the program
+		C)	independent logic paths in the program
+		D)	statements in the program
+8		
+The cyclomatic complexity of a program can be computed directly from a PDL representation of an algorithm without drawing a program flow graph.
+		A)	True
+		B)	False
+9		
+Condition testing is a control structure testing technique where the criteria used to design test cases is that they
+		A)	rely on basis path testing
+		B)	exercise the logical conditions in a program module
+		C)	select test paths based on the locations and uses of variables
+		D)	focus on testing the validity of loop constructs
+10		
+Data flow testing is a control structure testing technique where the criteria used to design test cases is that they
+		A)	rely on basis path testing
+		B)	exercise the logical conditions in a program module
+		C)	select test paths based on the locations and uses of variables
+		D)	focus on testing the validity of loop constructs
+11		
+Loop testing is a control structure testing technique where the criteria used to design test cases is that they
+		A)	rely basis path testing
+		B)	exercise the logical conditions in a program module
+		C)	select test paths based on the locations and uses of variables
+		D)	focus on testing the validity of loop constructs
+12		
+Black-box testing attempts to find errors in which of the following categories
+		A)	incorrect or missing functions
+		B)	interface errors
+		C)	performance errors
+		D)	none of the above
+		E)	a, b, c
+13		
+Graph-based testing methods can only be used for object-oriented systems
+		A)	True
+		B)	False
+14		
+Equivalence testing divides the input domain into classes of data from which test cases can be derived to reduce the total number of test cases that must be developed.
+		A)	True
+		B)	False
+15		
+Boundary value analysis can only be used to do white-box testing.
+		A)	True
+		B)	False
+16		
+Orthogonal array testing enables the test designer to maximize the coverage of the test cases devised for relatively small input domains.
+		A)	True
+		B)	False
+17		
+Test derived from behavioral class models should be based on the
+		A)	data flow diagram
+		B)	object-relation diagram
+		C)	state transition diagram
+		D)	use-case diagram
+18		
+Documentation does not need to be tested.
+		A)	True
+		B)	False
+19		
+Real-time applications add a new and potentially difficult element to the testing mix
+		A)	performance
+		B)	reliability
+		C)	security
+		D)	time

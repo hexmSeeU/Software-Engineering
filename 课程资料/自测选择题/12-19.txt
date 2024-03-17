@@ -1,0 +1,108 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+Which of the following are areas of concern in the design model?
+		A)	architecture
+		B)	data
+		C)	interfaces
+		D)	project scope
+		E)	a, b, c
+2		
+The importance of software design can be summarized in a single word
+		A)	accuracy
+		B)	complexity
+		C)	efficiency
+		D)	quality
+3		
+Which of these are characteristics of a good design?
+		A)	exhibits strong coupling between its modules
+		B)	implements all requirements in the analysis model
+		C)	includes test cases for all components
+		D)	provides a complete picture of the software
+		E)	b and d
+4		
+Which of the following is not a characteristic common to all design methods?
+		A)	configuration management
+		B)	functional component representation
+		C)	quality assessment guidelines
+		D)	refinement heuristics
+5		
+What types of abstraction are used in software design?
+		A)	control
+		B)	data
+		C)	environmental
+		D)	procedural
+		E)	a, b, d
+6		
+Which of the following can be used to represent the architectural design of a piece of software?
+		A)	Dynamic models
+		B)	Functional models
+		C)	Structural models
+		D)	All of the above
+7		
+Design patterns are not applicable to the design of object-oriented software?
+		A)	True
+		B)	False
+8		
+Since modularity is an important design goal it is not possible to have too many modules in a proposed design.
+		A)	True
+		B)	False
+9		
+Information hiding makes program maintenance easier by hiding data and procedure from unaffected parts of the program.
+		A)	True
+		B)	False
+10		
+Cohesion is a qualitative indication of the degree to which a module
+		A)	can be written more compactly.
+		B)	focuses on just one thing.
+		C)	is able to complete its function in a timely manner.
+		D)	is connected to other modules and the outside world.
+11		
+Coupling is a qualitative indication of the degree to which a module
+		A)	can be written more compactly.
+		B)	focuses on just one thing.
+		C)	is able to complete its function in a timely manner.
+		D)	is connected to other modules and the outside world.
+12		
+When using structured design methodologies the process of stepwise refinement is unnecessary.
+		A)	True
+		B)	False
+13		
+Software designs are refactored to allow the creation of software that is easier to integrate, easier to test, and easier to maintain.
+		A)	True
+		B)	False
+14		
+Which of the following is not one of the five design class types
+		A)	Business domain classes
+		B)	Entity classes
+		C)	Process classes
+		D)	User interface classes
+15		
+Which design model elements are used to depict a model of information represented from the user¡¯s view?
+		A)	Architectural design elements
+		B)	Component-level design elements
+		C)	Data design elements
+		D)	Interface design elements
+16		
+Which design is equivalent to the floor plan of a house?
+		A)	Architectural design
+		B)	Component-level design
+		C)	Data design
+		D)	Interface design
+17		
+Which design model is equivalent to the detailed drawings of the access points and external utilities for a house?
+		A)	Architectural design
+		B)	Component-level design
+		C)	Data design
+		D)	Interface design
+18		
+Which design model is equivalent to a set of detailed drawings for each room in a house?
+		A)	Architectural design
+		B)	Component-level design
+		C)	Data design
+		D)	Interface design
+19		
+The deployment design elements specify the build order for the software components.
+		A)	True
+		B)	False

@@ -1,0 +1,83 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+Quality of conformance focuses on the degree to which the implementation of a design meets its requirements and performance goals.
+		A)	True
+		B)	False
+2		
+Which of the following is not one of the attributes of software quality?
+		A)	Adds value for developers and users
+		B)	Effective software process creates infrastructure
+		C)	Removes need to consider performance issues
+		D)	Useful products satisfy stakeholder requirements
+3		
+Product quality can only be assessed by measuring hard quality factors.
+		A)	True
+		B)	False
+4		
+Many software metrics can only be measured indirectly.
+		A)	True
+		B)	False
+5		
+Which of the following are ISO 9126 software quality factors?
+		A)	Functionality
+		B)	Portability
+		C)	Reliability
+		D)	Visual appeal
+		E)	a, b, c
+6		
+Developers need to create a collection of targeted questions to asses each quality factor.
+		A)	True
+		B)	False
+7		
+Software metrics represent direct measures of some manifestation of quality.
+		A)	True
+		B)	False
+8		
+The quality dilemma might be summarized as choosing between building things quickly or building things correctly.
+		A)	True
+		B)	False
+9		
+Good enough software delivers high quality software functions along with specialized functions that contain known bugs.
+		A)	True
+		B)	False
+10		
+Which of the following is likely to be the most expensive cost of quality?
+		A)	Appraisal costs
+		B)	External failure costs
+		C)	Internal failure costs
+		D)	Prevention costs
+11		
+Poor quality leads to software risks that can become serious?
+		A)	True
+		B)	False
+12		
+When a system fails to deliver required functions it is because the customer changes requirements?
+		A)	True
+		B)	False
+13		
+Developers must start focusing on quality during the design phase in order to build secure systems.
+		A)	True
+		B)	False
+14		
+Which of the following management decisions have the potential to impact software quality?
+		A)	Estimation decisions
+		B)	Risk-oriented decisions
+		C)	Scheduling decisions
+		D)	All of the above
+15		
+The project plan should include explicit techniques for _______ and _______ management?
+		A)	change
+		B)	cost
+		C)	error
+		D)	quality
+		E)	a and d
+16		
+Quality control encompasses a set of software engineering actions that help to ensure that each work product meets its quality goals.
+		A)	True
+		B)	False
+17		
+The goal of quality assurance to insure that a software project is error free.
+		A)	True
+		B)	False

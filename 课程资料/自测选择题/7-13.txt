@@ -1,0 +1,65 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+Software engineering principles have about a three year half-life.
+		A)	True
+		B)	False
+2		
+Which of the following is not one of core principles of software engineering practice?
+		A)	All design should be as simple as possible, but no simpler.
+		B)	A software system exists only to provide value to its users.
+		C)	Pareto principle (20% of any product requires 80% of the effort).
+		D)	Remember that you produce others will consume
+3		
+Every communication activity should have a facilitator to make sure that the customer is not allowed to dominate the proceedings.
+		A)	True
+		B)	False
+4		
+The agile view of iterative customer communication and collaboration is applicable to all software engineering practice.
+		A)	True
+		B)	False
+5		
+One reason to involve everyone on the software team in the planning activity is to
+		A)	adjust the granularity of the plan
+		B)	control feature creep
+		C)	get all team members to ¡°sign up¡± to the plan
+		D)	understand the problem scope
+6		
+Project plans should not be changed once they are adopted by a team.
+		A)	True
+		B)	False
+7		
+Requirements models depict software in which three domains?
+		A)	architecture, interface, component
+		B)	cost, risk, schedule
+		C)	information, function, behavior
+		D)	None of the above
+8		
+The design model should be traceable to the requirements model?
+		A)	True
+		B)	False
+9		
+Teams using agile software practices do not generally create models.
+		A)	True
+		B)	False
+10		
+Which of the following is not one of the principles of good coding?
+		A)	Create unit tests before you begin coding
+		B)	Create unit tests before you begin coding
+		C)	Refractor the code after you complete the first coding pass
+		D)	Write self-documenting code, not program documentation
+11		
+A successful test I ones that discovers at least one as-yet undiscovered error.
+		A)	True
+		B)	False
+12		
+Which of the following are valid reasons for collecting customer feedback concerning delivered software?
+		A)	Allows developers to make changes to the delivered increment
+		B)	Delivery schedule can be revised to reflect changes
+		C)	Developers can identify changes to incorporate into next increment
+		D)	All of the above
+13		
+Larger programming teams are always more productive than smaller teams.
+		A)	True
+		B)	False

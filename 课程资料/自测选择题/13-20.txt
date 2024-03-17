@@ -1,0 +1,102 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+The best representation of system architecture is an operational software prototype.
+		A)	True
+		B)	False
+2		
+The architectural representations can be an enabler for communication among project stakeholders.
+		A)	True
+		B)	False
+3		
+An architectural description is often documented using an architecture template.
+		A)	True
+		B)	False
+4		
+An architectural decision is often documented using an architecture decision description template.
+		A)	True
+		B)	False
+5		
+An architectural genre will often dictate the architectural approach that may used for the structure to be built.
+		A)	True
+		B)	False
+6		
+An architectural style encompasses which of the following elements?
+		A)	constraints
+		B)	set of components
+		C)	semantic models
+		D)	syntactic models
+		E)	a, b, c
+7		
+To determine the architectural style or combination of styles that best fits the proposed system, requirements engineering is used to uncover
+		A)	algorithmic complexity
+		B)	characteristics and constraints
+		C)	control and data
+		D)	design patterns
+8		
+Before an architectural pattern can be chosen for use in a specific system it must have a code implementation to facilitate its reuse.
+		A)	True
+		B)	False
+9		
+The criteria used to assess the quality of an architectural design should be based on system
+		A)	accessibility
+		B)	control
+		C)	data
+		D)	implementation
+		E)	b and c
+10		
+Software architectural considerations often interact with each other and moderate each other.
+		A)	True
+		B)	False
+11		
+Developer notes are not a reliable means of documenting architectural decisions
+		A)	True
+		B)	False
+12		
+During process of modeling the system in context, systems that interact with the target system are represented as
+		A)	Peer-level systems
+		B)	Subordinate systems
+		C)	Superordinate systems
+		D)	Working systems
+		E)	a, b, c
+13		
+Once selected, archetypes always need to be refined further as architectural design proceeds.
+		A)	True
+		B)	False
+14		
+Which of the following is not an example of infrastructure components that may need to be integrated into the software architecture?
+		A)	Communications components
+		B)	Database components
+		C)	Interface components
+		D)	Memory management components
+15		
+In the architecture trade-off analysis method the architectural style should be described using the
+		A)	data flow view
+		B)	module view
+		C)	process view
+		D)	user view
+		E)	a, b, c
+16		
+A useful technique for evaluating the overall complexity of a proposed architecture is to look at the component
+		A)	cohesion
+		B)	flow dependencies
+		C)	sharing dependencies
+		D)	size
+		E)	b and c
+17		
+Software architects need to create consensus among software team members and other stakeholders.
+		A)	True
+		B)	False
+18		
+Pattern-based architectural reviews can be useful for project with short build cycles and volatile requirements.
+		A)	True
+		B)	False
+19		
+Static architectural conformance checking assesses whether or not the source code matches the user visible requirements.
+		A)	True
+		B)	False
+20		
+Architectural design has no role in agile software process models.
+		A)	True
+		B)	False

@@ -1,0 +1,100 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+Which of the following interface design principles does not allow the user to remain in control of the interaction with a computer?
+		A)	allow interaction to interruptible
+		B)	allow interaction to be undoable
+		C)	hide technical internals from casual users
+		D)	only provide one rigidly defined method for accomplishing a task
+2		
+Which of the following interface design principles reduce the user's memory load?
+		A)	define intuitive shortcuts
+		B)	disclose information in a progressive fashion
+		C)	establish meaningful defaults
+		D)	provide an on-line tutorial
+		E)	a, b, c
+3		
+The reason for reducing the user's memory load is make his or her interaction with the computer quicker to complete.
+		A)	True
+		B)	False
+4		
+Interface consistency implies that
+		A)	each application should have its own distinctive look and feel
+		B)	input mechanisms remain the same throughout the application
+		C)	navigational methods are context sensitive
+		D)	visual information is organized according to a design standard
+		E)	b and d
+5		
+If past interactive models have created certain user expectations it is not generally good to make changes to the model.
+		A)	True
+		B)	False
+6		
+Which model depicts the profile of the end users of a computer system?
+		A)	design model
+		B)	implementation model
+		C)	user model
+		D)	user's model
+7		
+Which model depicts the image of a system that an end user creates in his or her head?
+		A)	design model
+		B)	user model
+		C)	system model
+		D)	system perception
+8		
+Which model depicts the look and feel of the user interface along with all supporting information?
+		A)	implementation model
+		B)	user model
+		C)	user's model
+		D)	system perception
+9		
+Which of these framework activities is not normally associated with the user interface design processes?
+		A)	cost estimation
+		B)	interface construction
+		C)	interface validation
+		D)	user and task analysis
+10		
+Which approach(es) to user task analysis can be useful in user interface design?
+		A)	have users indicate their preferences on questionnaires
+		B)	rely on the judgement of experienced programmers
+		C)	study existing computer-based solutions
+		D)	observe users performing tasks manually
+		E)	c and d
+11		
+Object-oriented analysis techniques can be used to identify and refine user task objects and actions without any need to refer to the user voice.
+		A)	True
+		B)	False
+12		
+The computer's display capabilities are the primary determinant of the order in which user interface design activities are completed.
+		A)	True
+		B)	False
+13		
+It is sometimes possible that the interface designer is constrained by environmental factors that mitigate against ease of use for many users.
+		A)	True
+		B)	False
+14		
+One means of defining user interface objects and actions is to conduct a grammatical parse of the user scenario.
+		A)	True
+		B)	False
+15		
+Interface design patterns typically include a complete component-level design (design classes, attributes, operations, and interfaces).
+		A)	True
+		B)	False
+16		
+Several common design issues surface for almost every user interface including
+		A)	adaptive user profiles
+		B)	error handling
+		C)	resolution of graphics displays
+		D)	system response time
+		E)	b and d
+17		
+It is more important to capture the user¡¯s attention with flashy features than ergonomically sound screen layouts when building a WebApp.
+		A)	True
+		B)	False
+18		
+Several usability measures can be collected while observing users interacting with a computer system including
+		A)	down time for the application
+		B)	number of user errors
+		C)	software reliability
+		D)	time spent looking at help materials
+		E)	b and d

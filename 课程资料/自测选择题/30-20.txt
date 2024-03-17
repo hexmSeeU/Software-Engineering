@@ -1,0 +1,115 @@
+Multiple Choice Quiz
+(See related pages)
+
+1		
+Most technical software metrics described in this chapter represent indirect measures software attributes that are useful in the quantitative assessment of software quality.
+		A)	True
+		B)	False
+2		
+Which these are reasons for using technical product measures during software development?
+		A)	large body of scientific evidence supports their use
+		B)	provides software engineers with an objective mechanism for assessing software quality
+		C)	they allow all quality software quality information to be expressed unambiguously as a single number
+		D)	all of the above
+3		
+Which measurement activity is missing from the list below?
+Formulation
+Collection
+Analysis
+Interpretation
+		A)	design
+		B)	feedback
+		C)	measurement
+		D)	quantification
+4		
+The Goal/Question/Metric (GQM) paradigm was developed as a technique for assigning blame for software failures.
+		A)	True
+		B)	False
+5		
+One of the most important attributes for a software product metric is that it should be
+		A)	easy to compute
+		B)	qualitative in nature
+		C)	reliable over time
+		D)	widely applicable
+6		
+In many cases metrics for one model may be used in later software engineering activities (e.g. design metrics may be used in test planning).
+		A)	True
+		B)	False
+7		
+The function point metric is an example of metric that can be used to assist with technical decision-making based on the analysis model information, without making use of historical project data.
+		A)	True
+		B)	False
+8		
+The specification metrics proposed by Davis address which two characteristics of the software requirements?
+		A)	functionality and performance
+		B)	performance and completeness
+		C)	specificity and completeness
+		D)	specificity and functionality
+9		
+Architectural design metrics focus on
+		A)	architectural structure
+		B)	data structural relationships
+		C)	internal module complexity
+		D)	module effectiveness
+		E)	a and d
+10		
+Which of the following is not a measurable characteristic of an object-oriented design?
+		A)	completeness
+		B)	efficiency
+		C)	size
+		D)	volatility
+11		
+The depth of inheritance tree (DIT) metric can give an OO software designer a reading on the
+		A)	attributes required for each class
+		B)	completion time required for system implementation
+		C)	complexity of the class hierarchy
+		D)	level of object reusability achieved
+12		
+Because the class is the dominant unit in OO systems there is no call for the definition of class-oriented metrics.
+		A)	True
+		B)	False
+13		
+If you encounter a class with a large responsibility (large class size or CS value) you should consider
+		A)	making it a base class
+		B)	making it a subclass
+		C)	partitioning the class
+		D)	starting a new class hierarchy
+14		
+Component-level metrics include measures of
+		A)	complexity
+		B)	coupling
+		C)	module cohesion
+		D)	performance
+		E)	a, b, c
+15		
+Because the class is the dominant unit in OO systems very few metrics have been proposed for operations that reside within a class.
+		A)	True
+		B)	False
+16		
+Interface metrics are use to assess the complexity of the module's input and output relationships with external devices.
+		A)	True
+		B)	False
+17		
+Most WebApps can be easily characterized by judicious use of widely recognized suites of software metrics?
+		A)	True
+		B)	False
+18		
+Halstead's source code metrics are based on the number of
+		A)	modules in the program
+		B)	operands in the program
+		C)	operators in the program
+		D)	volume elements in the program
+		E)	b and c
+19		
+Software testing metrics fall into two broad categories
+		A)	metrics that focus on defect removal effectiveness
+		B)	metrics that focus on test coverage
+		C)	metrics that estimate the duration of the testing process
+		D)	metrics that predict the number of test cases required
+		E)	b and d
+20		
+The IEEE software maturity index (SMI) is used to provide a measure of the
+		A)	maintainability of a software product based on its availability
+		B)	relative age of a software product being considered for retirement
+		C)	reliability of a software product following regression testing
+		D)	stability of a software product as it is modified during maintenance
